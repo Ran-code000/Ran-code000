@@ -15,7 +15,7 @@ I’m eager to collaborate on projects related to **pattern recognition and comp
 
 ## 📫 How to Reach Me
 Feel free to get in touch:
-- **Email**: 1301543039@qq.com
+- **Email**: cuijr5@mail2.sysu.edu.cn
 
 ## 😄 Pronouns
 She/Her
