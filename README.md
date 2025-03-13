@@ -1,24 +1,23 @@
 # 👋 Hi, I’m @Ran-code00
-
-Welcome to my GitHub profile! I'm excited to share my coding journey and projects with you.
+Welcome to my GitHub profile! I’m thrilled to share my coding journey and projects with you.
 
 ## 👀 Interests
-I am passionate about coding, software development, and exploring new technologies. I enjoy tackling challenges and creating innovative solutions. In addition to coding, I love playing video games, playing badminton, and playing the guzheng.
+I’m passionate about coding, software development, and exploring cutting-edge technologies. I enjoy solving complex problems and building creative solutions. Beyond tech, I love playing video games, hitting the badminton court, and strumming the guzheng.
 
 ## 🌱 Currently Learning
-I am currently a student at Sun Yat-sen University (SYSU), where I'm diving deep into computer science and data structures.
+I’m a sophomore at Sun Yat-sen University (SYSU), majoring in Computer Science. Right now, I’m diving into the fundamentals of computer science and machine learning algorithms, laying a strong foundation for my future goals.
+
+## 🔮 Future Goals
+Looking ahead, I aspire to specialize in computer vision and pattern recognition. I’m excited to explore how these fields can shape the future of technology, from intelligent systems to real-world applications.
 
 ## 💞️ Collaboration
-I am looking to collaborate on exciting projects related to web development and machine learning. If you have a project in mind or want to brainstorm ideas, feel free to reach out!
+I’m eager to collaborate on projects related to **pattern recognition and computer vision**, or any fascinating AI-driven ideas. Whether it’s building innovative solutions or brainstorming creative concepts, I’d love to exchange ideas and work together with you!
 
 ## 📫 How to Reach Me
-You can reach me through:
-- Email: 1301543039@qq.com
-- LinkedIn: [not registered yet]
-- Twitter: [not registered yet]
+Feel free to get in touch:
+- **Email**: 1301543039@qq.com
 
 ## 😄 Pronouns
 She/Her
 
-Thank you for visiting my profile! I look forward to connecting with you and collaborating on amazing projects. Let’s code the future together! 🚀
-
+Thanks for stopping by! I’m eager to connect, learn, and code the future with you. Let’s make it happen! 🚀
