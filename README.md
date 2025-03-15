@@ -2,7 +2,7 @@
 Welcome to my GitHub profile! I’m thrilled to share my coding journey and projects with you.
 
 ## 👀 Interests
-I’m passionate about coding, software development, and exploring cutting-edge technologies. I enjoy solving complex problems and building creative solutions. Beyond tech, I love playing video games, hitting the badminton court, and strumming the guzheng.
+I’m passionate about coding, and exploring cutting-edge technologies. I enjoy solving complex problems and building creative solutions. Beyond tech, I love playing video games, hitting the badminton , and strumming the guzheng.
 
 ## 🌱 Currently Learning
 I’m a sophomore at Sun Yat-sen University (SYSU), majoring in Computer Science. Right now, I’m diving into the fundamentals of computer science and machine learning algorithms, laying a strong foundation for my future goals.
