@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Sandyana Rae Williams
+# 👋 Hi, I’m @Nicole
 Welcome to my GitHub profile! I’m thrilled to share my coding journey and projects with you.
 
 ## 👀 Interests
